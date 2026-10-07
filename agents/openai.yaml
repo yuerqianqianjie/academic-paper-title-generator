@@ -1,0 +1,5 @@
+interface:
+  display_name: "Academic Paper Title Generator"
+  short_description: "Generate polished English titles for academic papers."
+  default_prompt: "Use $academic-paper-title-generator to generate English academic paper title options from my manuscript or research notes."
+
